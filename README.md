@@ -4,9 +4,12 @@
 **JaimeNA03/JaimeNA03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🎓 Ing, en Desarrollo y Gestion de software.
-- 🤝🏻 Estoy abierto a coloborar en proyectos Open sourse.
-- 🧠 Autualmete estoy aprendiendo .net.
+- 🎓 Ing. en Desarrollo y Gestión de software.
+- 🤝🏻 Estoy abierto a colaborar en proyectos Open Sourse.
+- 🧠 Actualmente estoy aprendiendo C++.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhaime-nu%C3%B1ez-a160a41a2/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
